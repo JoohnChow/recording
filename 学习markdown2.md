@@ -37,6 +37,8 @@
   
 * [markdown 语法手册](http://blog.csdn.net/witnessai1/article/details/52551362)
 
+* [markdown语法说明(简体中文版)](http://wowubuntu.com/markdown/)
+* [markdown语法说明(繁体中文版)](http://markdown.tw/)
 
    
   
